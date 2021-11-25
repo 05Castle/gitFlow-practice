@@ -6,6 +6,8 @@ def do_fizzbuzz():
     print 'buzz' if i is times of 5(done)
     print 'fizzbuzz' if i is times of 15
     else, print i (done, string)
+
+    It is release note test
     """
     for i in range(1,15+1):
         if i%15==0:
